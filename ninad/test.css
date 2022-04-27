@@ -1,0 +1,47 @@
+body{
+line-height : 2em;
+font-family: Verdana, Helvetica, Arial, sans-serif;
+
+padding : 1
+}
+#divtool
+{
+	width : 500px;
+}
+h1{
+color : #ff6600;
+
+margin-top : 5%;
+font-size : 600%;
+ 	
+}
+
+.ninad
+{
+background-color : Blue;
+color : White;
+font-style : italic;
+}
+p#gurantee{
+  width : 150%;
+  border-color : white;
+  border-width : 2px;
+  border-style : dashed;
+   padding : 4%;
+ background-color :  #a7cecc;
+  margin : 5%;
+
+
+}
+#hellodiv p
+{
+	width : 50%;
+	background-color : #a7cecc;
+	border-color : black;
+	border-style : dashed;
+	border-width : 2px;
+float : right;
+
+line-height : 1em;
+	
+}
